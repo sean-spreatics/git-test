@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React 하이
+          Learn React.js 하이
           <p>devel 작업 수정</p>
         </a>
       </header>
